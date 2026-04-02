@@ -27,8 +27,7 @@ L'application suit une architecture MVC (Modèle-Vue-Contrôleur) pour séparer 
 
 | Page d'ouverture | Fenêtre de victoire |
 |---|---|
-| ![Ouverture](https://via.placeholder.com/300x200?text=Interface+Jeu) | ![Victoire](https://via.placeholder.com/300x200?text=Winner+Highlight) |
-*(Note : Pensez à remplacer ces liens par vos propres captures d'écran issues du dossier images)*
+| ![Ouverture](https://i.ibb.co/xxfZttJ/capture1.png) | ![Victoire](https://i.ibb.co/Dmgx1YQ/capture2.png) |
 
 ## Difficultés résolues
 Le développement a permis de surmonter des défis techniques, notamment sur l'exportation en fichier JAR et la correction d'erreurs logiques lors de la mise à jour des pseudos via l'opérateur d'affectation simple.
