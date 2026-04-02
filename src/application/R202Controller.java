@@ -66,7 +66,7 @@ public class R202Controller {
                 PlayerTour = true;
             }
 
-            // Mise a jour des compteurs
+            // Mise a jour des compteurs des colonnes ligne ect
             nombreDeCoups++;
             lignes[r] += valeurCoup;
             colonnes[c] += valeurCoup;
